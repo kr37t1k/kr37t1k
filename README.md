@@ -1,4 +1,4 @@
-# Hi there, I'm Egor Akentiev (Akroneer) 👋
+# Hi there, I'm Egor Akentiev (tarakara,kr37t1k,║) 👋
 
 ## Python Fullstack Developer | 4 Years of Experience
 
@@ -6,10 +6,10 @@ Welcome to my GitHub profile! I'm a passionate Python fullstack developer with 4
 
 ### 🧰 My Tech Stack
 - **Backend**: Python, Django, Flask, FastAPI
-- **Frontend**: HTML, CSS, JavaScript, React, Vue.js
-- **Databases**: PostgreSQL, MySQL, MongoDB, Redis
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Databases**: PostgreSQL, MySQL, MongoDB, SQLite3
 - **DevOps**: Docker, Git, CI/CD, Linux
-- **Cloud**: AWS, Heroku, DigitalOcean
+- **Cloud**: Sorry no$$
 
 ### 🌱 Currently Learning
 - Advanced cloud architectures
@@ -20,19 +20,17 @@ Welcome to my GitHub profile! I'm a passionate Python fullstack developer with 4
 This repository and my profile contain a wide variety of projects demonstrating:
 - Fullstack web applications
 - API development and integration
-- Database design and optimization
-- System architecture solutions
 - DevOps and deployment strategies
 
 ### 📫 How to Reach Me
-- GitHub: [Akroneer](https://github.com/your-username)
-- LinkedIn: [Connect with me](https://linkedin.com/in/your-profile)
+- GitHub: [Code](https://github.com/kr37t1k)
+- Steam: [Play with me](https://steamcommunity.com/id/kr37t1k/)
+- [Everywhere you need](kr37t1k)
 
 ### 💬 Ask Me About
 - Python development best practices
 - Fullstack architecture decisions
 - Project planning and execution
-- Tech stack recommendations
 
 ---
 
